@@ -20,14 +20,17 @@
  O que aprendemos não se perde! Evolui...</p>
  
 🔭 Atualmente estou participando de alguns bootcamps.
+<br>
     Dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
+<br>
 
 🌱 Atualmente estou estudando:
-   Inteligencia artificial.
-   Lingaguagem de Programação Java.
-   Linguagem de Programação C#.
-   Cloud Computing.
+<br>
+   Inteligencia artificial.<br>
+   Lingaguagem de Programação Java.<br>
+   Linguagem de Programação C#.<br>
+   Cloud Computing.<br>
 
- Epero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!
+ Epero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
  ## GRATO!!!
