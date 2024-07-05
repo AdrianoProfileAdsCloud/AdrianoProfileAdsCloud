@@ -4,7 +4,7 @@
  e coisas relacionadas na minha area de atução que me despertam interesse.Gosto de explorar novas ferramentas e linguagens de programação.
   Aqui você encontrará alguns dos meus projetos  relacionados a cursos que fiz e outros que ainda estão em fase de conclusão. </p>
   <p> Não se engane ao ver meus projetos e cursos diversos, supor que não sei o que quero seguir! Pelo contrário tenho isso muito bem definido, essa diversidade de conteúdo e projetos
-   estão relacionados com minha área de atuação, são projetos baseados em cursos que compoem o profissional que sou. Já que o mercado de o mercado tecnologico não para de evoluir. Procuro conhecer de tudo um pouco para ter embasamento de discução e utilização quando necessário.Claro que tenho meu foco de estudo e
+   estão relacionados com minha área de atuação, são projetos baseados em cursos que compoem o profissional que sou. Já que o mercado tecnologico não para de evoluir. Procuro conhecer de tudo um pouco para ter embasamento de discução e utilização quando necessário.Claro que tenho meu foco de estudo e
    especialização(Java,C#  e Cloud) mais não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia. </p>
   
  # Sobre mim 🚀
