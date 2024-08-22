@@ -30,6 +30,6 @@
    Linguagem de Programação C#.<br>
    Cloud Computing.<br>
 
- Epero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
+ Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
  ## GRATO!!!
