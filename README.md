@@ -18,9 +18,9 @@
  Sigo minha jornada profissional, tendo em mente que a Tecnologia é uma Metamorfose constante!
  O que aprendemos não se perde! Evolui...</p>
  
-🔭 Atualmente estou participando de alguns bootcamps.
+🔭 Bootcamps.
 <br>
-    Dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
+    Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
 <br>
 
 🌱 Atualmente estou estudando:
