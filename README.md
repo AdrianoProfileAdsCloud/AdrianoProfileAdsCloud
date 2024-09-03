@@ -21,7 +21,9 @@
 🔭 Bootcamps.
 <br>
     Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
+    
 <br>
+
 🌱 Atualmente estou estudando:
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
