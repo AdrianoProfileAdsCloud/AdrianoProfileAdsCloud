@@ -29,7 +29,10 @@
    Lingaguagem de Programação Java.<br>
    Linguagem de Programação C#.<br>
    Cloud Computing.<br>
+   Devops.<br>
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
- ## GRATO!!!
+ Para me conhecer mais :
+ [Linkedin](www.linkedin.com/in/adssolutions)
+
