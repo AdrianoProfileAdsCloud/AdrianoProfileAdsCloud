@@ -55,6 +55,6 @@
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
- Para me conhecer mais :
+ - 📫 Para me conhecer mais :
  [Linkedin](www.linkedin.com/in/adssolutions)
 
