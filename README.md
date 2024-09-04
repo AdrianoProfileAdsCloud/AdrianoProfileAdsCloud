@@ -12,6 +12,9 @@
    especialização(Java,C#  e Cloud) mais não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia. </p>
  
  <br>
+ 
+ ## 📝 Resumo Profissional.
+ 
  <p>Graduado em Análise e Desenvolvimento de Sistemas, formação técnica pelo Centro Paula Souza em Técnico de Informática entre diversos cursos e especializações relacionados
    às as duas, formação. Desempenhei funções de: Instrutor de Informática; Técnico de Informática; Analista de Suporte de Sistemas; Analista de Redes com o cargo atual de Desenvolvimento de Software. 
    Analisei, Elaborei e Provi Soluções para cenários diversos. Sempre ligado a Desenvolvimento de Sistemas e Tecnologias de mercado em geral. A vivência nas empresas em que trabalhei,
@@ -74,13 +77,6 @@
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
    ![Iintellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoProfileAdsCloud&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoProfileAdsCloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
