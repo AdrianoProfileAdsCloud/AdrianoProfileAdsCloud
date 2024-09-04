@@ -5,7 +5,7 @@
  # 👨 Quem sou Eu?
  <p> Dedicação  e resiliência são a chave para tudo! Gosto de me dedicar ao máximo no que me proponho a fazer.Sou muito paciênte, sei a hora certa de agir ou recuar;o que não quer dizer que espero as coisas acontecerem para ter um posicionamento. Levo muito em consideração criticas construtivas, acredito que crescemos muito com elas seja de forma pessoal ou profissional.
   Em fases dificéis procuro sempre mater a calma para então encontrar uma saída!
-  RESPEITO,EDUCAÇÃO,SINCERIDADE são tudo pra mim! Meu lado profissional está muito ligado a meu lado profissional,já que tudo que sou como profissional e complementado com o meu eu "PESSOAL".
+  RESPEITO,EDUCAÇÃO e SINCERIDADE são tudo pra mim! Meu lado profissional está muito ligado a meu lado profissional,já que tudo que sou como profissional e complementado com o meu eu "PESSOAL".
   
  <br>
  
