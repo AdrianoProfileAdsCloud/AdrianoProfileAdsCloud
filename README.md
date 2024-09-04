@@ -75,6 +75,6 @@
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
  
- [Para saber mais sobre meu Perfil Profissional](https://www.linkedin.com/in/adssolutions)
+ 🧐 [Para saber mais sobre meu Perfil Profissional](https://www.linkedin.com/in/adssolutions)
 
 
