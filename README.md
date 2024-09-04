@@ -18,13 +18,13 @@
  Sigo minha jornada profissional, tendo em mente que a Tecnologia é uma Metamorfose constante!
  O que aprendemos não se perde! Evolui...</p>
  
-🔭 Bootcamps.
+## 🔭 Bootcamps.
 <br>
     Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
     
 <br>
 
-📚 Atualmente estou estudando:
+## 📚 Atualmente estou estudando:
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -33,7 +33,8 @@
 🤖 Inteligência Artificial. 
  
 <br>
-🌱 Tecnologias:   
+
+## 🌱 Tecnologias:   
 <br>  
 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
