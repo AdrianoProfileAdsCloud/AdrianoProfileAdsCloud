@@ -74,6 +74,10 @@
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
-![![Para me conhecer mais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adssolutions)
+
+ ![Para me conhecer mais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+ <br>
+ ![](www.linkedin.com/in/adssolutions)
 
 
