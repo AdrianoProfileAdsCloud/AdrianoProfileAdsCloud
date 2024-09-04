@@ -8,7 +8,7 @@
   Em fases dificéis procuro sempre mater a calma para então encontrar uma saída!
   RESPEITO,EDUCAÇÃO e SINCERIDADE são tudo pra mim!
   <br>
-  Meu lado profissional está muito ligado a meu lado profissional,já que tudo que sou como profissional e complementado com o meu eu "PESSOAL".
+  Meu lado profissional está muito ligado a meu lado profissional,já que tudo que sou como profissional e uma estensão de mim  como pessoa.
   
  <br>
  
