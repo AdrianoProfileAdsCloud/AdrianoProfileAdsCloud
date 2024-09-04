@@ -1,6 +1,5 @@
  ## 👋  Olá,meu nome é  Adriano Aparecido da Silva 
- # Seja Bem-vindo
- 
+ # Seja Bem-vindo 
  <br>
  
  # 👨 Sobre mim 
@@ -9,12 +8,10 @@
   Aqui você encontrará alguns dos meus projetos  relacionados a cursos que fiz e outros que ainda estão em fase de conclusão. </p>
   <p> Não se engane ao ver meus projetos e cursos diversos, supor que não sei o que quero seguir! Pelo contrário tenho isso muito bem definido, essa diversidade de conteúdo e projetos
    estão relacionados com minha área de atuação, são projetos baseados em cursos que compoem o profissional que sou. Já que o mercado tecnologico não para de evoluir. Procuro conhecer de tudo um pouco para ter embasamento de discução e utilização quando necessário.Claro que tenho meu foco de estudo e
-   especialização(Java,C#  e Cloud) mais não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia. </p>
- 
+   especialização(Java,C#  e Cloud) mais não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia. </p> 
  <br>
  
- ## 📝 Resumo Profissional.
- 
+ ## 📝 Resumo Profissional. 
  <p>Graduado em Análise e Desenvolvimento de Sistemas, formação técnica pelo Centro Paula Souza em Técnico de Informática entre diversos cursos e especializações relacionados
    às as duas, formação. Desempenhei funções de: Instrutor de Informática; Técnico de Informática; Analista de Suporte de Sistemas; Analista de Redes com o cargo atual de Desenvolvimento de Software. 
    Analisei, Elaborei e Provi Soluções para cenários diversos. Sempre ligado a Desenvolvimento de Sistemas e Tecnologias de mercado em geral. A vivência nas empresas em que trabalhei,
