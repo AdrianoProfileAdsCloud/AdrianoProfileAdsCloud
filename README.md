@@ -32,7 +32,7 @@
  
 <br>
 
-## 🌱 Tecnologias:   
+## 🚀 Hard Skills:   
 <br>  
 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,6 +74,6 @@
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
- - 📫 Para me conhecer mais :
- [Linkedin](www.linkedin.com/in/adssolutions)
+ [- 📫 Para me conhecer mais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : [Linkedin](www.linkedin.com/in/adssolutions)
+
 
