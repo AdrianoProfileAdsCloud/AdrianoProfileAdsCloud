@@ -21,7 +21,7 @@
  Sigo minha jornada profissional, tendo em mente que a Tecnologia é uma Metamorfose constante!
  O que aprendemos não se perde! Evolui...</p>
  
-## 🔭 Bootcamps,fonte de aprendizado continuo.
+## 🔭 Bootcamps, fonte de aprendizado continuo!
 
 <p>Já realizei alguns,dos quais frutificaram projetos que se encontram aqui.E muitos outros que estão por vir.  </p>  
 <br>
