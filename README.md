@@ -23,7 +23,7 @@
  
 ## 🔭 Bootcamps, fonte de aprendizado continuo!
 
-<p>Já realizei alguns,dos quais frutificaram projetos que se encontram aqui.E muitos outros que estão por vir.  </p>  
+<p>Já realizei alguns,dos quais frutificaram projetos que se encontram aqui.E muitos outros que estão para serem conlcuídos.  </p>  
 <br>
 
 ## 📚 Estudando:
