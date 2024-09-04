@@ -1,5 +1,5 @@
  ## 👋  Olá,meu nome é  Adriano Aparecido da Silva 
- # Bem-vindo ao meu perfil no GitHub!<br>
+ # Bem-vindo <br>
  <p> Sou um desenvolvedor que gosta de constantes desafios. Estou sempre a procura de novos conhecimentos 
  e coisas relacionadas na minha area de atução que me despertam interesse.Gosto de explorar novas ferramentas e linguagens de programação.
   Aqui você encontrará alguns dos meus projetos  relacionados a cursos que fiz e outros que ainda estão em fase de conclusão. </p>
