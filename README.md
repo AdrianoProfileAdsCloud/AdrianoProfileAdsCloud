@@ -79,7 +79,7 @@
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoProfileAdsCloud&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoProfileAdsCloud-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoProfileAdsCloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
