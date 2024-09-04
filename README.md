@@ -1,5 +1,8 @@
  ## 👋  Olá,meu nome é  Adriano Aparecido da Silva 
- # Bem-vindo <br>
+ # Seja Bem-vindo
+ 
+ <br>
+ 
  # 👨 Sobre mim 
  <p> Sou um desenvolvedor que gosta de constantes desafios. Estou sempre a procura de novos conhecimentos 
  e coisas relacionadas na minha area de atução que me despertam interesse.Gosto de explorar novas ferramentas e linguagens de programação.
@@ -71,6 +74,13 @@
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
    ![Iintellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+   <div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
