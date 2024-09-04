@@ -19,7 +19,7 @@
  O que aprendemos não se perde! Evolui...</p>
  
 ## 🔭 Bootcamps.
-    Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.
+    <p> Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.</p>
     
 <br>
 
