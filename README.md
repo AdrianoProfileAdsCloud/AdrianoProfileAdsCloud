@@ -20,7 +20,7 @@
  
 ## 🔭 Bootcamps.
 
-<p>Já realizei algins,dos quais frutificaram alguns projetos que se encontram aqui.E muitos outros que estão por vir.  </p>  
+<p>Já realizei alguns,dos quais frutificaram projetos que se encontram aqui.E muitos outros que estão por vir.  </p>  
 <br>
 
 ## 📚 Estudando:
