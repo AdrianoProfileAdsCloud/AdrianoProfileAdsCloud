@@ -66,6 +66,7 @@
    ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
    ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
    ![Grafana](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=Puppet&logoColor=white)
+   ![Grafana](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)
    
 
    ## Conhecimentos Extras:
