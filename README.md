@@ -7,7 +7,7 @@
    estão relacionados com minha área de atuação, são projetos baseados em cursos que compoem o profissional que sou. Já que o mercado tecnologico não para de evoluir. Procuro conhecer de tudo um pouco para ter embasamento de discução e utilização quando necessário.Claro que tenho meu foco de estudo e
    especialização(Java,C#  e Cloud) mais não abro mão de conhecer e acrescentar aos meus conhecimentos o que surge a cada dia. </p>
   
- # Sobre mim 🚀
+ # 👨 Sobre mim 
  <br>
  <p>Graduado em Análise e Desenvolvimento de Sistemas, formação técnica pelo Centro Paula Souza em Técnico de Informática entre diversos cursos e especializações relacionados
    às as duas, formação. Desempenhei funções de: Instrutor de Informática; Técnico de Informática; Analista de Suporte de Sistemas; Analista de Redes com o cargo atual de Desenvolvimento de Software. 
