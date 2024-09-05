@@ -74,7 +74,7 @@
    ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=Puppet&logoColor=white)
    ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-   ## Zabbix|Nezus|Kubernets|CodeCommit|CodeDeploy|Jenkins|CodeBuild|CodePipeLine
+   ### Zabbix | Nezus | Kubernets | CodeCommit | CodeDeploy | Jenkins | CodeBuild | CodePipeLine
   
  
 
