@@ -74,6 +74,7 @@
    ![Grafana](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=Puppet&logoColor=white)
    ![Grafana](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+   ![Zabbix](https://drive.google.com/file/d/1xZ_icqqm0QTj3osWppFrcEgS7xWaQaQS/view?usp=sharing)
 
    <br>
 
@@ -84,6 +85,7 @@
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
    ![Iintellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+   
 
  Espero que quem venha acessar meu GitHub possa de alguma forma obter algum conhecimento!<br>
  <br>
