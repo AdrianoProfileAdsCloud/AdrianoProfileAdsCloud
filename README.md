@@ -74,8 +74,7 @@
    ![Grafana](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=Puppet&logoColor=white)
    ![Grafana](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-   <img src="https://drive.google.com/uc?export=view&id=18kWCaHP9YFYAugn5rUUqRqU7_IzvJ2Ee" style="width: 650px; max-width: 100%; 
- height: auto"/>
+   ![Example Image](https://drive.google.com/uc?id=18kWCaHP9YFYAugn5rUUqRqU7_IzvJ2Ee)
  
 
 
