@@ -76,6 +76,10 @@
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![Zabbix](https://drive.google.com/file/d/1xZ_icqqm0QTj3osWppFrcEgS7xWaQaQS/view?usp=sharing)
 
+<a href="https://drive.google.com/uc?export=view&id=   
+https://drive.google.com/file/d/"><img src="https://drive.google.com/uc?export=view&id=   
+https://drive.google.com/file/d/" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
    <br>
 
    ## Conhecimentos Extras:
